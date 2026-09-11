@@ -1,0 +1,45 @@
+commit e426dd0081710e8c3d0e53f07e6034a94619b246
+Merge: bdab6b7 6f85555
+Author: CalBrit7 <birazoq@calstatela.edu>
+Date:   Thu Sep 10 20:38:27 2026 -0700
+
+    Merge branch 'index-fix'
+
+commit 6f8555576f7a6a0c7a8b9d24ceb78431e2196e38
+Author: CalBrit7 <birazoq@calstatela.edu>
+Date:   Thu Sep 10 20:06:09 2026 -0700
+
+    added favorite game
+
+commit bdab6b73aa3be27b29d157d6c0bc45d9568077ed
+Author: CalBrit7 <birazoq@calstatela.edu>
+Date:   Thu Sep 10 19:59:31 2026 -0700
+
+    added favorite food
+
+commit 939a54cc44067fee2c6fac29f07380ccba022275
+Author: CalBrit7 <168679078+CalBrit7@users.noreply.github.com>
+Date:   Thu Sep 10 19:19:02 2026 -0700
+
+    Create README.md
+
+commit 1e5da8758e5e745c569b0fb9a3ac7c2d5e187bb5
+Merge: 1d2bfc0 0a89f57
+Author: CalBrit7 <168679078+CalBrit7@users.noreply.github.com>
+Date:   Thu Sep 10 19:14:02 2026 -0700
+
+    Merge pull request #1 from CalBrit7/info-fill
+    
+    made changes to file
+
+commit 0a89f57d8749bf784dfd62247b2a069a4d947261
+Author: CalBrit7 <birazoq@calstatela.edu>
+Date:   Fri Sep 4 11:30:40 2026 -0700
+
+    made changes to file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
